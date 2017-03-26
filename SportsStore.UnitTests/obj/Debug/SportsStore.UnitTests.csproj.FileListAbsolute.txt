@@ -1,1 +1,2 @@
 G:\MVC\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.csprojResolveAssemblyReference.cache
+F:\5-Book\Book-Lap-Trinh\Book-MVC\2-Source-Code\mvc-SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.csprojResolveAssemblyReference.cache
